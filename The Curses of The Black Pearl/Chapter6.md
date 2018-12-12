@@ -1,5 +1,7 @@
 ### 熟词生义
-* >Before she knew what was happening, Jack had grabbed the pistol and new held it against her `temple`.
+* > ```
+      Before she knew what was happening, Jack had grabbed the pistol and new held it against her `temple`.
+   ```
    ```
       temple/这里翻译成“太阳穴”
    ```
