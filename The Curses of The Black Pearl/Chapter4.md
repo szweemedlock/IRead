@@ -1,26 +1,27 @@
+### 熟词生义
 1. >__Gingerly__, Jack reached out his hand and began to shake with Norrington.
-   - gingerly *adv.* 小心谨慎地、战战赫赫地
+   - gingerly/*adv.* 小心谨慎地、战战赫赫地
 2. >Every breath she took felt too short and her vision began to __grow blurry__.
-   - grow blurry 变得模糊
-   - grow strong 变得强大
-   - grow warm 变得温暖
-   - turn “突然转变”，go “变坏”，fall “从上到下变化”的意思
+   - grow blurry/变得模糊
+   - grow strong/变得强大
+   - grow warm/变得温暖
+   - turn/“突然转变”，go/“变坏”，fall/“从上到下变化”的意思
 3. >But the promotion also casts into __sharp relief__ which I have not achieved: marriage to a fine woman.
-   - sharp relief 令人注目的特征
+   - sharp relief/令人注目的特征
    - the quality of a particular situation, problem etc. that makes it more noticeable than before.
-   - cast into 投入、投进、铸成、使得
+   - cast into/投入、投进、铸成、使得
 4. >The tightness in Elizabeth's chest grew as Norrington's words __sank in__.
-   - sink in 下沉，理解
+   - sink in/下沉，理解
 5. >Slowly, Jack stood. Thee scene did not __bode well for__ him.
-   - bode *v.* 预示、预兆
-   - bode for 预示、对...来说预示着
-   - bode well for 好预兆
-   - bode ill for 凶兆
+   - bode/*v.* 预示、预兆
+   - bode for/预示、对...来说预示着
+   - bode well for/好预兆
+   - bode ill for/凶兆
 6. >Jack looked over at Elizabeth who was now __being tended to__ by the very nervous governor.
-   - tend to 趋向于
-   - be tend to 被照顾
+   - tend to/趋向于
+   - be tend to/被照顾
 ---
-### words
+### 单词
 |:baby_bottle:|:beer:|:coffee:|
 |:-----|-----:|:-----:|
 |cliff|n.|悬崖; 峭壁|
