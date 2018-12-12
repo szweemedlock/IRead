@@ -1,17 +1,17 @@
 ### :four_leaf_clover: 熟词生义
-* *Before she knew what was happening, Jack had grabbed the pistol and new held it against her `temple`*.
+1. *Before she knew what was happening, Jack had grabbed the pistol and new held it against her `temple`*.
   * > temple/这里翻译成“太阳穴”
-* *"I save your life; now you've saved mine. We're `square`," he said*.
+2. *"I save your life; now you've saved mine. We're `square`," he said*.
    * > we are square/表示“我们两清了”
-* *Below him, the marines opened fire but only Norrington's shot flew `true`*.
+3. *Below him, the marines opened fire but only Norrington's shot flew `true`*.
    * > straight, in a direct line/当true做副词时，有“笔直地”的含义
-* *The pirate safely captured, the rest of the men `stood down`, placing their weapons back in their belts*.
+4. *The pirate safely captured, the rest of the men `stood down`, placing their weapons back in their belts*.
    * > stand down/表示“解除戒备状态”
-* *Once again, Jack Sparrow had `slipped through` the fingers of the enemy*.
+5. *Once again, Jack Sparrow had `slipped through` the fingers of the enemy*.
    * > slip through/表示“溜走、滑过”
-* *And while his clothes could have belonged to any poor sailor, the manacle dangling from his wrist `gave him away`*.
+6. *And while his clothes could have belonged to any poor sailor, the manacle dangling from his wrist `gave him away`*.
    * > give away/表示“泄露”
-* *He was of `slim build`, and while his hands appeared strong-most likely from working with hot metal and other tool of the blacksmith
+7. *He was of `slim build`, and while his hands appeared strong-most likely from working with hot metal and other tool of the blacksmith
 trad-his eyes were innocent.*
    * > build/作名词表示“身材、体型、体格”的意思
    * > slim build/表示“苗条，纤瘦”的身材
