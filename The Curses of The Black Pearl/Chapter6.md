@@ -2,10 +2,10 @@
 *I think one should go easy on smashing other people's lies. Better to concentrate on one's own.*
 
 ### :four_leaf_clover: 熟词生义
-1. *In the `heat` of the battle, Jack's chain wrapped around Will's sword*.
-   * > _the heat of_ a particular activity is the point when there is the greatest activity or excitement.
-2. *"I save your life; now you've saved mine. We're `square`," he said*.
-   * > we are square/表示“我们两清了”
+1. *In `the heat of` the battle, Jack's chain wrapped around Will's sword*.
+   * > a particular activity is the point when there is the greatest activity or excitement.
+2. *Seeing his chance, Will raised his sword up, `bedding` it deep in the rafter above, and he fastened Jack there, leaving him to dangle*.
+   * > to fix something firmly and deeply into something else.
 3. *Below him, the marines opened fire but only Norrington's shot flew `true`*.
    * > straight, in a direct line/当true做副词时，有“笔直地”的含义
 4. *The pirate safely captured, the rest of the men `stood down`, placing their weapons back in their belts*.
