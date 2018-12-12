@@ -1,7 +1,12 @@
 1. >__Gingerly__, Jack reached out his hand and began to shake with Norrington.
-   - gingerly *adv. 小心谨慎地、战战赫赫地*
+   - gingerly *adv.* 小心谨慎地、战战赫赫地
 2. >Every breath she took felt too short and her vision began to __grow blurry__.
+   - grow blurry 变得模糊
+   - grow strong 变得强大
+   - grow warm 变得温暖
+   - turn标识“突然转变”，go表示“变坏”，fall有“从上到下变化”的意思
 3. >But the promotion also casts into __sharp relief__ which I have not achieved: marriage to a fine woman.
+
 4. >The tightness in Elizabeth's chest grew as Norrington's words __sank in__.
 5. >Slowly, Jack stood. Thee scene did not __bode well for__ him.
 6. >Jack looked over at Elizabeth who was now __being tended to__ by the very nervous governor.
