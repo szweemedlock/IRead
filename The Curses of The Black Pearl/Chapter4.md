@@ -4,7 +4,7 @@
    - grow blurry 变得模糊
    - grow strong 变得强大
    - grow warm 变得温暖
-   - turn标识“突然转变”，go表示“变坏”，fall有“从上到下变化”的意思
+   - turn “突然转变”，go “变坏”，fall “从上到下变化”的意思
 3. >But the promotion also casts into __sharp relief__ which I have not achieved: marriage to a fine woman.
    - sharp relief 令人注目的特征
    - the quality of a particular situation, problem etc. that makes it more noticeable than before.
