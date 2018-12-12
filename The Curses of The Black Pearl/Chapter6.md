@@ -1,4 +1,4 @@
-### 熟词生义
+### :four_leaf_clover: 熟词生义
 * *Before she knew what was happening, Jack had grabbed the pistol and new held it against her `temple`*.
   * > temple/这里翻译成“太阳穴”
 * *"I save your life; now you've saved mine. We're `square`," he said*.
@@ -19,8 +19,8 @@ trad-his eyes were innocent.*
    * > muscular build/健壮的身材
    * > slight build/精瘦的身材
 ---
-### 核心单词
-|:baby_bottle:|:beer:|:coffee:|
+### :star: 核心单词
+|单词|词性|释义|
 |:-----|-----:|:-----:|
 |tiresome|adj.|使人疲倦；烦人的；讨厌的；无聊的|
 |clash|vi.|发生冲突；发出撞击声|
