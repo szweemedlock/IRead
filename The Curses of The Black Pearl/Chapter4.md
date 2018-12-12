@@ -6,10 +6,19 @@
    - grow warm 变得温暖
    - turn标识“突然转变”，go表示“变坏”，fall有“从上到下变化”的意思
 3. >But the promotion also casts into __sharp relief__ which I have not achieved: marriage to a fine woman.
-
+   - sharp relief 令人注目的特征
+   - the quality of a particular situation, problem etc. that makes it more noticeable than before.
+   - cast into 投入、投进、铸成、使得
 4. >The tightness in Elizabeth's chest grew as Norrington's words __sank in__.
+   - sink in 下沉，理解
 5. >Slowly, Jack stood. Thee scene did not __bode well for__ him.
+   - bode *v.* 预示、预兆
+   - bode for 预示、对...来说预示着
+   - bode well for 好预兆
+   - bode ill for 凶兆
 6. >Jack looked over at Elizabeth who was now __being tended to__ by the very nervous governor.
+   - tend to 趋向于
+   - be tend to 被照顾
 ---
 ### words
 |:baby_bottle:|:beer:|:coffee:|
