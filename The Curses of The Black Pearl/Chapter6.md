@@ -1,3 +1,6 @@
+### :hibiscus: 每日一句
+*I think one should go easy on smashing other people's lies. Better to concentrate on one's own.*
+
 ### :four_leaf_clover: 熟词生义
 1. *Before she knew what was happening, Jack had grabbed the pistol and new held it against her `temple`*.
    * > temple/这里翻译成“太阳穴”
