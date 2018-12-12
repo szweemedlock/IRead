@@ -2,8 +2,8 @@
 *I think one should go easy on smashing other people's lies. Better to concentrate on one's own.*
 
 ### :four_leaf_clover: 熟词生义
-1. *Before she knew what was happening, Jack had grabbed the pistol and new held it against her `temple`*.
-   * > temple/这里翻译成“太阳穴”
+1. *In the `heat` of the battle, Jack's chain wrapped around Will's sword*.
+   * > _the heat of_ a particular activity is the point when there is the greatest activity or excitement.
 2. *"I save your life; now you've saved mine. We're `square`," he said*.
    * > we are square/表示“我们两清了”
 3. *Below him, the marines opened fire but only Norrington's shot flew `true`*.
