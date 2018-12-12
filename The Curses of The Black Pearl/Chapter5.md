@@ -1,46 +1,37 @@
-### 熟词生义
-1. >Before she knew what was happening, Jack had grabbed the pistol and new held it against her __temple__.
-   - temple/这里翻译成“太阳穴”
-2. >"I save your life; now you've saved mine. We're __square__," he said.
-   - we are square/表示“我们两清了”
-3. >Below him, the marines opened fire but only Norrington's shot flew __true__.
-   - straight, in a direct line/当true做副词时，有“笔直地”的含义
-4. >The pirate safely captured, the rest of the men __stood down__, placing their weapons back in their belts.
-   - stand down/表示“解除戒备状态”
-5. >Once again, Jack Sparrow had __slipped through__ the fingers of the enemy.
-   - slip through/表示“溜走、滑过”
-6. >And while his clothes could have belonged to any poor sailor, the manacle dangling from his wrist __gave him away__.
-   - give away/表示“泄露”
-7. >He was of slim build, and while his hands appeared strong-most likely from working with hot metal and other tool of the blacksmith
-trad-his eyes were innocent.
-   - build/作名词表示“身材、体型、体格”的意思
-   - slim build/表示“苗条，纤瘦”的身材
-   - medium build/中等身材
-   - muscular build/健壮的身材
-   - slight build/精瘦的身材
+### :four_leaf_clover: 熟词生义
+1. *Before she knew what was happening, Jack had grabbed the pistol and new held it against her `temple`*.
+   * > temple/这里翻译成“太阳穴”
+2. *"I save your life; now you've saved mine. We're `square`," he said*.
+   * > we are square/表示“我们两清了”
+3. *Below him, the marines opened fire but only Norrington's shot flew `true`*.
+   * > straight, in a direct line/当true做副词时，有“笔直地”的含义
+4. *The pirate safely captured, the rest of the men `stood down`, placing their weapons back in their belts*.
+   * > stand down/表示“解除戒备状态”
+5. *Once again, Jack Sparrow had `slipped through` the fingers of the enemy*.
+   * > slip through/表示“溜走、滑过”
+6. *And while his clothes could have belonged to any poor sailor, the manacle dangling from his wrist `gave him away`*.
+   * > give away/表示“泄露”
+7. *He was of `slim build`, and while his hands appeared strong-most likely from working with hot metal and other tool of the blacksmith
+trad-his eyes were innocent.*
+   * > build/作名词表示“身材、体型、体格”的意思
+   * > slim build/表示“苗条，纤瘦”的身材
+   * > medium build/中等身材
+   * > muscular build/健壮的身材
+   * > slight build/精瘦的身材
 ---
-### 单词
-|:baby_bottle:|:beer:|:coffee:|
+### :maple_leaf: 核心单词
+|单词|词性|释义|
 |:-----|-----:|:-----:|
-|capture|n.|悬崖; 峭壁|
-|weapon|v.|实现，完成，做到|
-|snappy|v.|幻想，设想|
-|grab|n.|悲伤，疼痛；痛苦的缘由；困难，困境|
-|shield|n.|（药）剂量，用量，一剂|
-|release|n.|脉搏；脉冲；拍子，节奏|
-|breeze|adj.|奇怪的，古怪的；奇数的；多种多样的|
-|shiver|v.|裹，包，捆|
-|creep|n.|一击，（病）突然发作，一次，一举；中风；棍棒；笔画|
-|alley|v.|限制；监禁|
-|filtrate|adj.|精心设计的，精巧的；复杂的|
-|donkey|adj.|不情愿的；勉强的|
-|forge|v.|握紧，抓牢|
-|resume|vi.|褪色，褪去；失去；逐渐消失|
-|glow|n.|脚底，鞋底，袜底|
-|bubble|adj.|邪恶的；恶毒的；淘气的，恶作剧的|
-|encounter|v.|使灰心；挫败；阻挠|
-|slap|v.|使灰心；挫败；阻挠|
-|dread|v.|使灰心；挫败；阻挠|
-|thrust|v.|使灰心；挫败；阻挠|
-|intense|v.|使灰心；挫败；阻挠|
-|flee|v.|使灰心；挫败；阻挠|
+|tiresome|adj.|使人疲倦；烦人的；讨厌的；无聊的|
+|clash|vi.|发生冲突；发出撞击声|
+|tease|vt.|取笑；嘲弄；挑逗|
+|rack|n.|挂架，搁架|
+|barrel|n.|桶；枪管|
+|conquer|v.|征服；攻克；破除|
+|idle|adj.|空闲的；懒散的|
+|visible|adj.|看得见的，可见的；显然的，明显的|
+|jail|n.|监狱；看守所|
+|resign|vi.|辞职；顺从；投降|
+|chamber|n.|会议室；房间；腔|
+|propose|v.|提议；求婚|
+|imply|vt.|暗示；暗指；意味着|
