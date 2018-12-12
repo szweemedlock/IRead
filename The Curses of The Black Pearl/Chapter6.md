@@ -19,7 +19,7 @@ trad-his eyes were innocent.*
    * > muscular build/健壮的身材
    * > slight build/精瘦的身材
 ---
-### :star: 核心单词
+### :maple_leaf: 核心单词
 |单词|词性|释义|
 |:-----|-----:|:-----:|
 |tiresome|adj.|使人疲倦；烦人的；讨厌的；无聊的|
