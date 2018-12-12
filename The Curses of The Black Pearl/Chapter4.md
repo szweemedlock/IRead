@@ -1,6 +1,6 @@
-1. __Gingerly__, Jack reached out his hand and began to shake with Norrington.
-   1. >todo
-   2. >todo
+1. >__Gingerly__, Jack reached out his hand and began to shake with Norrington.
+   - this is a todo sentence.
+   - todo
 ---
 2. Every breath she took felt too short and her vision began to __grow blurry__.
 ---
