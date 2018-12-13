@@ -9,11 +9,11 @@ Life is a book, The fact that it was a short book doesn't mean it wasn't a good 
 2. *But the promotion also casts into `sharp relief` which I have not achieved: marriage to a fine woman.*
    * > the quality of a particular situation, problem etc. that makes it more noticeable than before.
 3. *The tightness in Elizabeth's chest grew as Norrington's words `sank in`.*
-   * > sink in/下沉，理解
+   * > to fall or drop to a lower place or level
 4. *Slowly, Jack stood. Thee scene did not `bode well for` him.*
-   * > bode/*v.* 预示、预兆
+   * > to show or suggest that future developments or events will be good or favorable
 5. *Jack looked over at Elizabeth who was now `being tended to` by the very nervous governor.*
-   * > tend to/趋向于
+   * > to exhibit an inclination or tendency 
 ### :grapes: Words
 |*Title*|||*Definition*|
 |:-----|:-----|:-----|:-----|
