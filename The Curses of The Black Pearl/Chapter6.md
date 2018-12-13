@@ -18,9 +18,9 @@
 ### :maple_leaf: 核心单词
 |单词|词性|释义|
 |:-----|-----:|:-----:|
-|tiresome|adj.|使人疲倦；烦人的；讨厌的；无聊的|
-|clash|vi.|发生冲突；发出撞击声|
-|tease|vt.|取笑；嘲弄；挑逗|
+|tiresome|adj.|exhausted in strenght, endurance, vigor, or freshness|
+|clash|vi.|to come into conflict|
+|tease|vt.|to make fun of|
 |rack|n.|挂架，搁架|
 |barrel|n.|桶；枪管|
 |conquer|v.|征服；攻克；破除|
