@@ -23,13 +23,13 @@
 ### :grapes: Words
 |*Title*||*Definition*|
 |:-----|-----:|:-----:|
-|tiresome \\`ˈbild`\\ |adj.|exhausted in strenght, endurance, vigor, or freshness|
-|clash|vi.|to come into conflict|
-|tease|vt.|to make fun of|
-|rack|n.|a framework, stand, or grating on or in which articles are placed|
-|barrel|n.|a drum or cylindrical part|
-|idle|adj.|not occupied or employed|
-|jail|n.|a place of confinement for persons held in lawful custody|
-|resign|vi.|1. to give up one's office or position 2. to accept something as inevitable|
-|chamber|n.|1. a natural or artificial enclosed space or cavity 2. a hall for the meetings|
-|propose|v.|to form or put forward a plan or intention|
+|tiresome \\`tire·some`\\ |adj.|exhausted in strenght, endurance, vigor, or freshness|
+|clash \\`ˈklash`\\ |vi.|to come into conflict|
+|tease \\`ˈtēz`\\ |vt.|to make fun of|
+|rack \\`ˈrak`\\ |n.|a framework, stand, or grating on or in which articles are placed|
+|barrel \\`bar·rel `\\ |n.|a drum or cylindrical part|
+|idle \\`ˈī-dᵊl`\\ |adj.|not occupied or employed|
+|jail \\`ˈjāl`\\ |n.|a place of confinement for persons held in lawful custody|
+|resign \\`re·sign `\\ |vi.|1. to give up one's office or position 2. to accept something as inevitable|
+|chamber \\`cham·ber`\\ |n.|1. a natural or artificial enclosed space or cavity 2. a hall for the meetings|
+|propose \\`pro·pose`\\ |v.|to form or put forward a plan or intention|
