@@ -2,12 +2,12 @@
 *I think one should go easy on smashing other people's lies. Better to concentrate on one's own.*
 
 ### :four_leaf_clover: 熟词生义
-1. *In `the heat of` the battle, Jack's chain wrapped around Will's sword*.
+1. *`In the heat of` the battle, Jack's chain wrapped around Will's sword*.
    * > a particular activity is the point when there is the greatest activity or excitement.
 2. *Seeing his chance, Will raised his sword up, `bedding` it deep in the rafter above, and he fastened Jack there, leaving him to dangle*.
    * > to fix something firmly and deeply into something else.
-3. *Below him, the marines opened fire but only Norrington's shot flew `true`*.
-   * > straight, in a direct line/当true做副词时，有“笔直地”的含义
+3. *People rushed home to the warmth of their hearths while the taverns that `lined` the streets, men sat at wooden tables, warming themselves with ale and idle chat.*.
+   * > row along sth
 4. *The pirate safely captured, the rest of the men `stood down`, placing their weapons back in their belts*.
    * > stand down/表示“解除戒备状态”
 5. *Once again, Jack Sparrow had `slipped through` the fingers of the enemy*.
