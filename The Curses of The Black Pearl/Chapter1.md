@@ -1,10 +1,17 @@
 ### :cherries: Daily
-todo
+What I needed with all my starved and silent soul was just that particular way of shouting back at the world.
 ### :watermelon: Familiar
 1. *Young Elizabeth Swann stood at the bow of the HMS Dauntless, one hand `resting` on the rail as she sang an old pirate shanty.*
-   * > if sth is resting somewhere, it is in a position where its weight is supportrd
+   * > if sth is resting somewhere, it is in a position where its weight is supportr
+2. *A thick fog `blanketed` the unusually calm sea.*
+   * > to cover something with a thick layer
 ### :tangerine: Highlight
-todo
+1. *Outfitted in the uniform of the Royal Navy with a wig of shocking white hair below his hat, Norrington `cut a striking figure`.*
+   * > cut a ... figure
+2. *Broken crates, splintered wood, and `wardrobes' worth of clothing` littered the waves.*
+   * > money/time's worth of something
+3. *How was Elizabeth to be a proper member of Port Royal society if she remained `obsessed with` pirates and legends of the sea?*
+   * > completely fill your mind so that you cannot think of anything else, in a way that is not normal
 ### :grapes: Words
 |*Title*|||*Definition*|
 |:-----|:-----|:-----|:-----|
