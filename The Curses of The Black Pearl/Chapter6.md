@@ -26,13 +26,10 @@
 |tiresome|adj.|exhausted in strenght, endurance, vigor, or freshness|
 |clash|vi.|to come into conflict|
 |tease|vt.|to make fun of|
-|rack|n.|挂架，搁架|
-|barrel|n.|桶；枪管|
-|conquer|v.|征服；攻克；破除|
+|rack|n.|a framework, stand, or grating on or in which articles are placed|
+|barrel|n.|a drum or cylindrical part|
 |idle|adj.|空闲的；懒散的|
-|visible|adj.|看得见的，可见的；显然的，明显的|
 |jail|n.|监狱；看守所|
 |resign|vi.|辞职；顺从；投降|
-|chamber|n.|会议室；房间；腔|
-|propose|v.|提议；求婚|
-|imply|vt.|暗示；暗指；意味着|
+|chamber|n.|a natural or artificial enclosed space or cavity/a hall for the meetings|
+|propose|v.|to form or put forward a plan or intention|
