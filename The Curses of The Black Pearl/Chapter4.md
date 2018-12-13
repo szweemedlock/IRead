@@ -2,10 +2,10 @@
 Life is a book, The fact that it was a short book doesn't mean it wasn't a good book.
 ### :watermelon: Familiar
 1. *`Gingerly`, Jack reached out his hand and began to shake with Norrington.*
-   * > gingerly/*adv.* 小心谨慎地、战战赫赫地
+   * >  very cautious or careful
 ### :tangerine: Highlight
 1. *Every breath she took felt too short and her vision began to `grow blurry`.*
-   * > todo
+   * >  lacking definition or focus
 2. *But the promotion also casts into `sharp relief` which I have not achieved: marriage to a fine woman.*
    * > the quality of a particular situation, problem etc. that makes it more noticeable than before.
 3. *The tightness in Elizabeth's chest grew as Norrington's words `sank in`.*
@@ -17,15 +17,13 @@ Life is a book, The fact that it was a short book doesn't mean it wasn't a good 
 ### :grapes: Words
 |*Title*|||*Definition*|
 |:-----|:-----|:-----|:-----|
-|cliff| \\`snap·py`\\ |n.|悬崖; 峭壁|
-|accomplish| \\`snap·py`\\ |v.|实现，完成，做到|
-|distress| \\`snap·py`\\ |n.|悲伤，疼痛；痛苦的缘由；困难，困境|
-|dose| \\`snap·py`\\ |n.|（药）剂量，用量，一剂|
-|pulse| \\`snap·py`\\ |n.|脉搏；脉冲；拍子，节奏|
-|stroke| \\`snap·py`\\ |n.|一击，（病）突然发作，一次，一举；中风；棍棒；笔画|
-|confine| \\`snap·py`\\ |v.|限制；监禁|
-|elaborate| \\`snap·py`\\ |adj.|精心设计的，精巧的；复杂的|
-|grip| \\`snap·py`\\ |v.|握紧，抓牢|
-|sole| \\`snap·py`\\ |n.|脚底，鞋底，袜底|
-|wicked| \\`snap·py`\\ |adj.|邪恶的；恶毒的；淘气的，恶作剧的|
-|frustrate| \\`snap·py`\\ |v.|使灰心；挫败；阻挠|
+|cliff| \\`ˈklif`\\ |n.|a very steep, vertical, or overhanging face of rock, earth, or ice|
+|distress| \\`dis·tress`\\ |n.|pain or suffering affecting the body, a bodily part, or the mind|
+|pulse| \\`ˈpəls`\\ |n.|the regular expansion of an artery caused by the ejection of blood into the arterial system by the contractions of the heart|
+|stroke| \\`ˈstrōk`\\ |v.|to rub gently in one direction|
+|confine| \\`con·fine`\\ |n.|something (such as borders or walls) that encloses|
+|elaborate| \\`elab·o·rate`\\ |adj.|planned or carried out with great care|
+|grip| \\`ˈgrip`\\ |v.|to seize or hold firmly|
+|sole| \\`ˈsōl`\\ |n.|1. being the only one 2. the undersurface of a foot|
+|wicked| \\`wick·ed`\\ |adj.|morally very bad|
+|frustrate| \\`frus·trate`\\ |v.|to balk or defeat in an endeavor|
