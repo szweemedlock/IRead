@@ -23,7 +23,7 @@
 ### :grapes: Words
 |*Title*||*Definition*|
 |:-----|-----:|:-----:|
-|tiresome|adj.|exhausted in strenght, endurance, vigor, or freshness|
+|tiresome \\`ˈbild`\\ |adj.|exhausted in strenght, endurance, vigor, or freshness|
 |clash|vi.|to come into conflict|
 |tease|vt.|to make fun of|
 |rack|n.|a framework, stand, or grating on or in which articles are placed|
