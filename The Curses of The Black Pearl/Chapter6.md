@@ -22,7 +22,7 @@
    * > not important.
 ### :grapes: Words
 |*Title*|||*Definition*|
-|:-----|:-----:|:-----:|:-----|
+|:-----|:-----|:-----|:-----|
 |tiresome| \\`tire·some`\\ |adj.|exhausted in strenght, endurance, vigor, or freshness|
 |clash| \\`ˈklash`\\ |vi.|to come into conflict|
 |tease| \\`ˈtēz`\\ |vt.|to make fun of|
