@@ -15,13 +15,12 @@ What I needed with all my starved and silent soul was just that particular way o
 ### :grapes: Words
 |*Title*|||*Definition*|
 |:-----|:-----|:-----|:-----|
-|curse| \\`ˈklif`\\ |n.|诅咒；咒骂；祸因|
-|whip| \\`ˈklif`\\ |vt.|突然拿取，猛然抓住；鞭打，抽打；痛责；驱使；怂恿|
-|wrinkle| \\`ˈklif`\\ |n.|皱纹，褶皱；窍门；转折，改变|
-|lean| \\`ˈklif`\\ |v.|倾斜，斜靠|
-|glare| \\`ˈklif`\\ |v.|怒目而视，发出强光|
-|curly| \\`ˈklif`\\ |adj.|卷曲的，卷毛的，弯曲的|
-|sway| \\`ˈklif`\\ |v.|摇摆，动摇，支配，影响|
+|whip| \\`ˈhwip`\\ |vt.|to take, pull, snatch, jerk, or otherwise move very quickly and forcefully|
+|wrinkle| \\`wrin·kle`\\ |n.|a small ridge or furrow especially when formed on a surface by the shrinking or contraction of a smooth substance|
+|lean| \\`ˈlēn`\\ |v.|to incline, deviate, or bend from a vertical position|
+|glare| \\`ˈgler`\\ |v.|to shine with a harsh uncomfortably brilliant light|
+|curly| \\`ˈklif`\\ |adj.|tending to curl|
+|sway| \\`ˈswā`\\ |v.|the action or an instance of swaying or of being swayed : an oscillating, fluctuating, or sweeping motion|
 |shurg| \\`ˈklif`\\ |n.|耸肩|
 |gaze| \\`ˈklif`\\ |v.|凝视，注视|
 |distract| \\`ˈklif`\\ |v.|使分心，转移（注意力），分散（思想）|
