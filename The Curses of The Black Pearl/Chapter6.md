@@ -21,15 +21,15 @@
 3. *The fog that had covered the town below `was of no consequence` to the pirate.*
    * > not important.
 ### :grapes: Words
-|*Title*||*Definition*|
-|:-----|-----:|:-----:|
-|tiresome \\`tire·some`\\ |adj.|exhausted in strenght, endurance, vigor, or freshness|
-|clash \\`ˈklash`\\ |vi.|to come into conflict|
-|tease \\`ˈtēz`\\ |vt.|to make fun of|
-|rack \\`ˈrak`\\ |n.|a framework, stand, or grating on or in which articles are placed|
-|barrel \\`bar·rel `\\ |n.|a drum or cylindrical part|
-|idle \\`ˈī-dᵊl`\\ |adj.|not occupied or employed|
-|jail \\`ˈjāl`\\ |n.|a place of confinement for persons held in lawful custody|
-|resign \\`re·sign `\\ |vi.|1. to give up one's office or position 2. to accept something as inevitable|
-|chamber \\`cham·ber`\\ |n.|1. a natural or artificial enclosed space or cavity 2. a hall for the meetings|
-|propose \\`pro·pose`\\ |v.|to form or put forward a plan or intention|
+|*Title*|||*Definition*|
+|:-----|-----:|-----:|:-----:|
+|tiresome| \\`tire·some`\\ |adj.|exhausted in strenght, endurance, vigor, or freshness|
+|clash| \\`ˈklash`\\ |vi.|to come into conflict|
+|tease| \\`ˈtēz`\\ |vt.|to make fun of|
+|rack| \\`ˈrak`\\ |n.|a framework, stand, or grating on or in which articles are placed|
+|barrel| \\`bar·rel `\\ |n.|a drum or cylindrical part|
+|idle| \\`ˈī-dᵊl`\\ |adj.|not occupied or employed|
+|jail| \\`ˈjāl`\\ |n.|a place of confinement for persons held in lawful custody|
+|resign| \\`re·sign `\\ |vi.|1. to give up one's office or position 2. to accept something as inevitable|
+|chamber| \\`cham·ber`\\ |n.|1. a natural or artificial enclosed space or cavity 2. a hall for the meetings|
+|propose| \\`pro·pose`\\ |v.|to form or put forward a plan or intention|
