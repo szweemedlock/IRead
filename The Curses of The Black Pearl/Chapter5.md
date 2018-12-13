@@ -19,18 +19,18 @@ trad-his eyes were innocent.*
    * > bodily conformation of a person or animal
 ---
 ### :grapes: Words
-|*Title*||*Definition*|
-|:-----|-----:|:-----:|
-|snappy|adj.||
-|breeze|adj.||
-|shiver|adj.||
-|alley|adj.||
-|donkey|adj.||
-|forge|adj.||
-|resume|adj.||
-|glow|adj.||
-|encounter|adj.||
-|slap|adj.||
-|dread|adj.||
-|thrust|adj.||
-|flee|adj.||
+|*Title*|||*Definition*|
+|:-----|:-----|:-----|:-----|
+|snappy| \\`tire·some`\\ |adj.|exhausted in strenght, endurance, vigor, or freshness|
+|breeze| \\`tire·some`\\ |adj.||
+|shiver| \\`tire·some`\\ |adj.||
+|alley| \\`tire·some`\\ |adj.||
+|donkey| \\`tire·some`\\ |adj.||
+|forge| \\`tire·some`\\ |adj.||
+|resume| \\`tire·some`\\ |adj.||
+|glow| \\`tire·some`\\ |adj.||
+|encounter| \\`tire·some`\\ |adj.||
+|slap| \\`tire·some`\\ |adj.||
+|dread| \\`tire·some`\\ |adj.||
+|thrust| \\`tire·some`\\ |adj.||
+|flee| \\`tire·some`\\ |adj.||
