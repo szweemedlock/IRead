@@ -1,6 +1,6 @@
-### :hibiscus: <font color=gray >每日一句</font>
+### :hibiscus: Daily
 *I think one should go easy on smashing other people's lies. Better to concentrate on one's own.*
-### :four_leaf_clover: 熟词生义
+### :four_leaf_clover: Familiar
 1. *`In the heat of` the battle, Jack's chain wrapped around Will's sword*.
    * > a particular activity is the point when there is the greatest activity or excitement.
 2. *Seeing his chance, Will raised his sword up, `bedding` it deep in the rafter above, and he fastened Jack there, leaving him to dangle*.
@@ -13,9 +13,9 @@
    * > when it is quiet and calm.
 6. *The prisoners were crouched down and pressed against the `bars` of their cell, intent to one thing-escape.*.
    * > a straight stripe, band, or line much longer than it is wide.
-### :cherry_blossom: 亮点语句
+### :cherry_blossom: Highlight
 
-### :maple_leaf: 核心单词
+### :maple_leaf: Words
 |单词|词性|释义|
 |:-----|-----:|:-----:|
 |tiresome|adj.|exhausted in strenght, endurance, vigor, or freshness|
