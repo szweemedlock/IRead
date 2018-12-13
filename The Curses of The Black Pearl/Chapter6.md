@@ -1,6 +1,5 @@
-### :hibiscus: 每日一句
+### :hibiscus: <font color=gray >每日一句</font>
 *I think one should go easy on smashing other people's lies. Better to concentrate on one's own.*
-
 ### :four_leaf_clover: 熟词生义
 1. *`In the heat of` the battle, Jack's chain wrapped around Will's sword*.
    * > a particular activity is the point when there is the greatest activity or excitement.
@@ -8,20 +7,14 @@
    * > to fix something firmly and deeply into something else.
 3. *People rushed home to the warmth of their hearths while the taverns that `lined` the streets, men sat at wooden tables, warming themselves with ale and idle chat.*.
    * > row along sth
-4. *The pirate safely captured, the rest of the men `stood down`, placing their weapons back in their belts*.
-   * > stand down/表示“解除戒备状态”
-5. *Once again, Jack Sparrow had `slipped through` the fingers of the enemy*.
-   * > slip through/表示“溜走、滑过”
-6. *And while his clothes could have belonged to any poor sailor, the manacle dangling from his wrist `gave him away`*.
-   * > give away/表示“泄露”
-7. *He was of `slim build`, and while his hands appeared strong-most likely from working with hot metal and other tool of the blacksmith
-trad-his eyes were innocent.*
-   * > build/作名词表示“身材、体型、体格”的意思
-   * > slim build/表示“苗条，纤瘦”的身材
-   * > medium build/中等身材
-   * > muscular build/健壮的身材
-   * > slight build/精瘦的身材
----
+4. *With a `sharp` word, she sent the maid from the room and picked up her book.*.
+   * > (of a person or what they say)critical or severe.
+5. *It stood watch over the shrouded and `still` town*.
+   * > when it is quiet and calm.
+6. *The prisoners were crouched down and pressed against the `bars` of their cell, intent to one thing-escape.*.
+   * > a straight stripe, band, or line much longer than it is wide.
+### :cherry_blossom: 亮点语句
+
 ### :maple_leaf: 核心单词
 |单词|词性|释义|
 |:-----|-----:|:-----:|
