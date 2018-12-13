@@ -16,10 +16,10 @@
 ### :tangerine: Highlight
 1. *It `stood watch` over the shrouded and still town.*
    * > to stand in a postion and guard or watch someone or something in order to look for possible danger, threats, etc.
-2. *Unfortunately for Jack, another sword lay at the ready and Will quickly grabbed it.*
-   * > to stand in a postion and guard or watch someone or something in order to look for possible danger, threats, etc.
-3. *It `stood watch` over the shrouded and still town.*
-   * > to stand in a postion and guard or watch someone or something in order to look for possible danger, threats, etc.
+2. *Unfortunately for Jack, another sword lay `at the ready` and Will quickly grabbed it.*
+   * > prepared to be used or to act immediately.
+3. *The fog that had covered the town below `was of no consequence` to the pirate.*
+   * > not important.
 ### :grapes: Words
 |单词|词性|释义|
 |:-----|-----:|:-----:|
