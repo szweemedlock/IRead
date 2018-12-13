@@ -28,8 +28,8 @@
 |tease|vt.|to make fun of|
 |rack|n.|a framework, stand, or grating on or in which articles are placed|
 |barrel|n.|a drum or cylindrical part|
-|idle|adj.|空闲的；懒散的|
-|jail|n.|监狱；看守所|
-|resign|vi.|辞职；顺从；投降|
-|chamber|n.|a natural or artificial enclosed space or cavity/a hall for the meetings|
+|idle|adj.|not occupied or employed|
+|jail|n.|a place of confinement for persons held in lawful custody|
+|resign|vi.|1. to give up one's office or position 2. to accept something as inevitable|
+|chamber|n.|1. a natural or artificial enclosed space or cavity 2. a hall for the meetings|
 |propose|v.|to form or put forward a plan or intention|
