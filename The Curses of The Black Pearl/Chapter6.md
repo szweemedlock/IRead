@@ -21,7 +21,7 @@
 3. *The fog that had covered the town below `was of no consequence` to the pirate.*
    * > not important.
 ### :grapes: Words
-|单词|词性|释义|
+|*Title*||*Definition*|
 |:-----|-----:|:-----:|
 |tiresome|adj.|exhausted in strenght, endurance, vigor, or freshness|
 |clash|vi.|to come into conflict|
