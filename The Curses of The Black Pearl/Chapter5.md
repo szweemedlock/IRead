@@ -17,20 +17,19 @@
 4. *He was of `slim build`, and while his hands appeared strong-most likely from working with hot metal and other tool of the blacksmith
 trad-his eyes were innocent.*
    * > bodily conformation of a person or animal
----
 ### :grapes: Words
 |*Title*|||*Definition*|
 |:-----|:-----|:-----|:-----|
-|snappy| \\`tire·some`\\ |adj.|exhausted in strenght, endurance, vigor, or freshness|
-|breeze| \\`tire·some`\\ |adj.||
-|shiver| \\`tire·some`\\ |adj.||
-|alley| \\`tire·some`\\ |adj.||
-|donkey| \\`tire·some`\\ |adj.||
-|forge| \\`tire·some`\\ |adj.||
-|resume| \\`tire·some`\\ |adj.||
-|glow| \\`tire·some`\\ |adj.||
-|encounter| \\`tire·some`\\ |adj.||
-|slap| \\`tire·some`\\ |adj.||
-|dread| \\`tire·some`\\ |adj.||
-|thrust| \\`tire·some`\\ |adj.||
-|flee| \\`tire·some`\\ |adj.||
+|snappy| \\`snap·py`\\ |adj.|quickly made or done|
+|breeze| \\`ˈbrēz `\\ |n.|a light gentle wind|
+|shiver| \\`shiv·er `\\ |vi.|to undergo trembling|
+|alley| \\`al·ley `\\ |n.|a garden or park walk bordered by trees or bushes|
+|donkey| \\`don·key`\\ |n.|a stupid or obstinate person|
+|forge| \\`ˈfȯrj `\\ |n.|a furnace or a shop with its furnace where metal is heated and wrought|
+|resume| \\`re·sume`\\ |v.|to assume or take again|
+|glow| \\`ˈglō`\\ |vi.|to shine with or as if with an intense heat|
+|encounter| \\`en·coun·ter`\\ |v.|to meet as an adversary or enemy|
+|slap| \\`ˈslap`\\ |v.| to strike sharply with or as if with the open hand|
+|dread| \\`ˈdred`\\ |v.|to fear greatly|
+|thrust| \\`ˈthrəst`\\ |v.|to push or drive with force|
+|flee| \\`ˈflē`\\ |vi.| to run away often from danger or evil|
