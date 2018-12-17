@@ -22,17 +22,9 @@ What I needed with all my starved and silent soul was just that particular way o
 |curly| \\`ˈklif`\\ |adj.|tending to curl|
 |sway| \\`ˈswā`\\ |v.|the action or an instance of swaying or of being swayed : an oscillating, fluctuating, or sweeping motion|
 |shurg| \\`ˈklif`\\ |n.|耸肩|
-|gaze| \\`ˈklif`\\ |v.|凝视，注视|
-|distract| \\`ˈklif`\\ |v.|使分心，转移（注意力），分散（思想）|
-|drift| \\`ˈklif`\\ |vi.|漂流；游荡|
 |bumpy| \\`ˈklif`\\ |adj.|颠簸的；崎岖不平的|
-|fragile| \\`ˈklif`\\ |adj.|易碎的；易损坏的；虚弱的；脆弱的|
 |itemize| \\`ˈklif`\\ |vt.|逐条列记；分条例举；详细开列|
 |wreck| \\`ˈklif`\\ |vt.|沉船，失事船；毁灭；失事|
-|hook| \\`ˈklif`\\ |n.|钩；钓钩|
-|leap| \\`ˈklif`\\ |v.|跳跃；暴涨|
 |deck| \\`ˈklif`\\ |n.|甲板，公共汽车一层的车厢，纸牌|
 |cargo| \\`ˈklif`\\ |n.|货物|
 |stern| \\`ˈklif`\\ |adj.|严厉的；严峻的；苛刻的；坚决的|
-|brow| \\`ˈklif`\\ |n.|眉毛；额|
-|approve| \\`ˈklif`\\ |v.|称许，赞许，批准|
