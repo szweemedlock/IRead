@@ -13,6 +13,6 @@
 ### :grapes: Words
 |*Title*|||*Definition*|
 |:-----|:-----|:-----|:-----|
-|invade| \\`invade`\\ |v.|to enter for conquest or plunder|
-|vain| \\`ˈblast`\\ |n.|1. a violent gust of wind 2. a sudden pernicious influence or effect|
-|lad| \\`ˈbländ`\\ |adj.|of a flaxen, golden, light auburn, or pale yellowish-brown color|
+|invade| \\`in·vade`\\ |v.|to enter for conquest or plunder|
+|vain| \\`ˈvān`\\ |adj.|having or showing undue or excessive pride in one's appearance or achievements|
+|lad| \\`ˈlad`\\ |n.|a male person of any age between early boyhood and maturity|
