@@ -1,18 +1,22 @@
 ### :cherries: Daily
-*When you forgive, you love. And when you love, God's light shines upon you.*
+*There are all kinds of silences and each of them means a different thing.*
 ### :watermelon: Familiar
-1. *Reaching up, he winced as his fingers `brushed` the spot where he had been hit the night before.*
-   * > to touch someone or something lightly when passing them
+1. *Sighing, he stood up and turned toward Will, his tan and weathered face mere `inches` from the blacksmith's.*
+   * > a small amount, distance, or degree
 ### :tangerine: Highlight
-1. *Sunlight filtered through the cell as Jack tried `in vain` to pick the lock of his cell - with a bone.*
-   * > without success in spite of your efforts
-2. *At the mention of "miss", Jack raised himself up onto his elbow, his interest `piqued`.*
-   * > to excite or arouse especially by a provocation, challenge, or rebuff
-3. *Jack was `at the wheel` of the smaller boat.*
-   * > if someone is at the wheel of a car, they are driving it
+1. *But, pirate's in your blood, so you're going to have `square with` that someday.*
+   * > to agree with (something)
+2. *Jack's words were painful to hear, but the pirate `had a point`- a twisted one, but a point nevertheless.*
+   * > make sense
+3. *Bringing her hand back, she slapped him hard across the cheek and then `stalked off`.*
+   * > to walk in a proud or angry way, with long steps
+4. *Time had not treated him well- his beard `was` now `more gray than black`, his clothes were tattered, and he smelled of pig and ale.*
+   * > to be one thing rather than another
+5. *The young blacksmith seemed `out of place` among the rough-and-tumble tavern crowd.*
+   * > not suitable for a particular situation or occasion
 ### :grapes: Words
 |*Title*|||*Definition*|
 |:-----|:-----|:-----|:-----|
-|invade| \\`in·vade`\\ |v.|to enter for conquest or plunder|
-|vain| \\`ˈvān`\\ |adj.|having or showing undue or excessive pride in one's appearance or achievements|
-|lad| \\`ˈlad`\\ |n.|a male person of any age between early boyhood and maturity|
+|mug| \\`məg`\\ |n.|a cylindrical drinking cup|
+|ample| \\`ˈam-pəl`\\ |adj.|generous or more than adequate in size, scope, or capacity|
+|leverage| \\`ˈle·ver·age `\\ |n.|the action of a lever or the mechanical advantage gained by it|
