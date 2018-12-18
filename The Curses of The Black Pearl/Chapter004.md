@@ -13,7 +13,7 @@ Life is a book, The fact that it was a short book doesn't mean it wasn't a good 
 4. *Slowly, Jack stood. Thee scene did not `bode well for` him.*
    * > to show or suggest that future developments or events will be good or favorable
 5. *Jack looked over at Elizabeth who was now `being tended to` by the very nervous governor.*
-   * > to exhibit an inclination or tendency 
+   * > to exhibit an inclination or tendency
 ### :grapes: Words
 |*Title*|||*Definition*|
 |:-----|:-----|:-----|:-----|

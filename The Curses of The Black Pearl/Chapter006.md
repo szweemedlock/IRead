@@ -15,7 +15,7 @@
    * > a straight stripe, band, or line much longer than it is wide.
 ### :tangerine: Highlight
 1. *It `stood watch` over the shrouded and still town.*
-   * > to stand in a postion and guard or watch someone or something in order to look for possible danger, threats, etc.
+   * > to stand in a position and guard or watch someone or something in order to look for possible danger, threats, etc.
 2. *Unfortunately for Jack, another sword lay `at the ready` and Will quickly grabbed it.*
    * > prepared to be used or to act immediately.
 3. *The fog that had covered the town below `was of no consequence` to the pirate.*

@@ -14,8 +14,7 @@
    * > to move with a smooth sliding motion
 3. *And while his clothes could have belonged to any poor sailor, the manacle dangling from his wrist `gave him away`*.
    * > an unintentional revelation or betrayal
-4. *He was of `slim build`, and while his hands appeared strong-most likely from working with hot metal and other tool of the blacksmith
-trad-his eyes were innocent.*
+4. *He was of `slim build`, and while his hands appeared strong-most likely from working with hot metal and other tool of the blacksmith triad-his eyes were innocent.*
    * > bodily conformation of a person or animal
 ### :grapes: Words
 |*Title*|||*Definition*|

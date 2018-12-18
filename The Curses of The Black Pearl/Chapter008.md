@@ -4,7 +4,7 @@
 1. *Fortunately to Will, the explosion also happened to unhook a hanging sign, which slammed the bald pirate `square` in the chest.*
    * > to test for deviation from a right angle, straight line, or plane surface
 ### :tangerine: Highlight
-1. *With Pintel and Ragetti distracted, Elizabeth once again took off at a run, `ducking into` the dining romm.*
+1. *With Pintel and Ragetti distracted, Elizabeth once again took off at a run, `ducking into` the dining room.*
    * > if you duck into a place, you move there quickly, often in an attempt to avoid danger or to avoid being seen.
 2. *The swords were `nothing more than` decoration.*
    * > merely
