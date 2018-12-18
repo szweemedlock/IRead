@@ -16,7 +16,7 @@
    * > to break or fall down
    * > start to appear suddenly and often dramatically
 3. *She grabbed the closest thing to a weapon she had-the heavy pan filled with hot coals that severs as a `bed warmer`.*
-   * > 
+   * > a device for keeping something warm
 ### :grapes: Words
 |*Title*|||*Definition*|
 |:-----|:-----|:-----|:-----|
