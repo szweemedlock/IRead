@@ -1,22 +1,27 @@
 ### :cherries: Daily
-*There are all kinds of silences and each of them means a different thing.*
+*When wounds are healed by love, the scars are beautiful.*
 ### :watermelon: Familiar
-1. *Sighing, he stood up and turned toward Will, his tan and weathered face mere `inches` from the blacksmith's.*
-   * > a small amount, distance, or degree
+1. *Elizabeth Swann awoke with a `start`.*
+   * > to move suddenly and quickly because you are surprised or afraid
+2. *Her heart still `racing`, she reached over and turned up the oil lamp that rested beside her canopied bed.*
+   * > to go, move, or function at top speed or out of control
+3. *`Easing` out of bed, Elizabeth picked up her oil lamp and made her way to her dressing table.*
+   * > move gently or carefully
+4. *The grinning skull `hauntingly` stared at her.*
+   * > haunt : to visit or inhabit as a ghost
+5. *"Elizabeth," came her father's voice. "Is everything all right? Are you `decent`?"*
+   * > well-formed
 ### :tangerine: Highlight
-1. *But, pirate's in your blood, so you're going to have `square with` that someday.*
-   * > to agree with (something)
-2. *Jack's words were painful to hear, but the pirate `had a point`- a twisted one, but a point nevertheless.*
-   * > make sense
-3. *Bringing her hand back, she slapped him hard across the cheek and then `stalked off`.*
-   * > to walk in a proud or angry way, with long steps
-4. *Time had not treated him well- his beard `was` now `more gray than black`, his clothes were tattered, and he smelled of pig and ale.*
-   * > to be one thing rather than another
-5. *The young blacksmith seemed `out of place` among the rough-and-tumble tavern crowd.*
-   * > not suitable for a particular situation or occasion
+1. *`Oblivious to` the effect she had on him, Elizabeth pressed on.*
+   * > unaware of sth
+2. *Shortly after, Elizabeth followed, `a frown on her face`, as she tried to figure out a way to breathe in the tight corset and walk at the same time.*
+   * > on one's face/cheeks/lips
+3. *Her hair gleamed in the `fractured sunlight` and Will took an involuntary step forward.*
+   * > fractured : broken or cracked
+4. *The deck was `overrun` with water.*
+   * > to defeat decisively and occupy the positions of
 ### :grapes: Words
 |*Title*|||*Definition*|
 |:-----|:-----|:-----|:-----|
-|mug| \\`məg`\\ |n.|a cylindrical drinking cup|
-|ample| \\`ˈam-pəl`\\ |adj.|generous or more than adequate in size, scope, or capacity|
-|leverage| \\`ˈle·ver·age `\\ |n.|the action of a lever or the mechanical advantage gained by it|
+|decent| \\`de·​cent`\\ |adj.|well-formed|
+|rib| \\`ˈrib`\\ |n.|any of the paired curved bony or partly cartilaginous rods that stiffen the walls of the body of most vertebrates and protect the viscera|
