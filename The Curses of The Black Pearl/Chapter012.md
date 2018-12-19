@@ -1,22 +1,15 @@
 ### :cherries: Daily
-*My worth is not defined by their actions because their actions are not a relection of my worth.*
+*My worth is not defined by their actions because their actions are not a reflection of my worth.*
 ### :watermelon: Familiar
-1. *Sighing, he stood up and turned toward Will, his tan and weathered face mere `inches` from the blacksmith's.*
-   * > a small amount, distance, or degree
+1. *Barbossa chuckled `knowingly`. That was what he had thought when he first learned of the curse, he told Elizabeth.*
+   * > indicating possession of exclusive inside knowledge or information
 ### :tangerine: Highlight
-1. *But, pirate's in your blood, so you're going to have `square with` that someday.*
-   * > to agree with (something)
-2. *Jack's words were painful to hear, but the pirate `had a point`- a twisted one, but a point nevertheless.*
-   * > make sense
-3. *Bringing her hand back, she slapped him hard across the cheek and then `stalked off`.*
-   * > to walk in a proud or angry way, with long steps
-4. *Time had not treated him well- his beard `was` now `more gray than black`, his clothes were tattered, and he smelled of pig and ale.*
-   * > to be one thing rather than another
-5. *The young blacksmith seemed `out of place` among the rough-and-tumble tavern crowd.*
-   * > not suitable for a particular situation or occasion
+1. *Only her eyes `gave away` her discomfort and fatigue.*
+   * > give away : expose
 ### :grapes: Words
 |*Title*|||*Definition*|
 |:-----|:-----|:-----|:-----|
-|mug| \\`məg`\\ |n.|a cylindrical drinking cup|
-|ample| \\`ˈam-pəl`\\ |adj.|generous or more than adequate in size, scope, or capacity|
-|leverage| \\`ˈle·ver·age `\\ |n.|the action of a lever or the mechanical advantage gained by it|
+|stretchy| \\`ˈstrech`\\ |v.|to extend (one's limbs, one's body, etc.) in a reclining position|
+|fatigue| \\`fa·​tigue`\\ |n.|manual or menial work (such as the cleaning up of acamp area) performed by military personnel|
+|peculiar| \\`pe·​cu·​liar`\\ |adj.|characteristic of only one person, group, or thing : DISTINCTIVE|
+|identical| \\`iden·​ti·​cal`\\ |adj.|being the same : SELFSAME|
