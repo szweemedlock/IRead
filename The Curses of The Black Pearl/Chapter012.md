@@ -1,5 +1,5 @@
 ### :cherries: Daily
-*There are all kinds of silences and each of them means a different thing.*
+*My worth is not defined by their actions because their actions are not a relection of my worth.*
 ### :watermelon: Familiar
 1. *Sighing, he stood up and turned toward Will, his tan and weathered face mere `inches` from the blacksmith's.*
    * > a small amount, distance, or degree
