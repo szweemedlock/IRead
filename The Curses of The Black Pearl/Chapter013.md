@@ -1,15 +1,18 @@
 ### :cherries: Daily
-*My worth is not defined by their actions because their actions are not a reflection of my worth.*
+*Never go on trips with anyone you do not love.*
 ### :watermelon: Familiar
-1. *Barbossa chuckled `knowingly`. That was what he had thought when he first learned of the curse, he told Elizabeth.*
-   * > indicating possession of exclusive inside knowledge or information
+1. *They now stood on the docks, `awaiting` Caption Sparrow's approval.*
+   * > wait for sb/sth
+2. *"He roped a couple of sea turtles," Will said `flatly`, looking at Gibbs in amusement.*
+   * > lacking in animation, zest, or vigor
 ### :tangerine: Highlight
-1. *Only her eyes `gave away` her discomfort and fatigue.*
-   * > give away : expose
+1. *"How is it that Jack `came by` that Compass," Will asked Gibbs as the sailor moved off.*
+   * > to get possession of
+2. *But they `turned on` him.*
+   * > become hostile towards
 ### :grapes: Words
 |*Title*|||*Definition*|
 |:-----|:-----|:-----|:-----|
-|stretchy| \\`ˈstrech`\\ |v.|to extend (one's limbs, one's body, etc.) in a reclining position|
-|fatigue| \\`fa·tigue`\\ |n.|manual or menial work (such as the cleaning up of acamp area) performed by military personnel|
-|peculiar| \\`pe·cu·liar`\\ |adj.|characteristic of only one person, group, or thing : DISTINCTIVE|
-|identical| \\`iden·ti·cal`\\ |adj.|being the same : SELFSAME|
+|await| \\`ə-ˈwāt`\\ |v.|to wait for|
+|keen| \\`ˈkēn`\\ |adj.|intellectually alert : having or characteristic of a quick penetrating mind|
+|moody| \\`ˈmü-dē`\\ |adj.|subject to depression|
