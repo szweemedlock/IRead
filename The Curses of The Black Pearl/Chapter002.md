@@ -23,5 +23,5 @@
 ### :grapes: Words
 |*Title*|||*Definition*|
 |:-----|:-----|:-----|:-----|
-|decent| \\`de·​cent`\\ |adj.|well-formed|
+|decent| \\`de·cent`\\ |adj.|well-formed|
 |rib| \\`ˈrib`\\ |n.|any of the paired curved bony or partly cartilaginous rods that stiffen the walls of the body of most vertebrates and protect the viscera|
