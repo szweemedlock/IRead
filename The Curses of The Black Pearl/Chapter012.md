@@ -10,6 +10,6 @@
 |*Title*|||*Definition*|
 |:-----|:-----|:-----|:-----|
 |stretchy| \\`ˈstrech`\\ |v.|to extend (one's limbs, one's body, etc.) in a reclining position|
-|fatigue| \\`fa·​tigue`\\ |n.|manual or menial work (such as the cleaning up of acamp area) performed by military personnel|
-|peculiar| \\`pe·​cu·​liar`\\ |adj.|characteristic of only one person, group, or thing : DISTINCTIVE|
-|identical| \\`iden·​ti·​cal`\\ |adj.|being the same : SELFSAME|
+|fatigue| \\`fa·tigue`\\ |n.|manual or menial work (such as the cleaning up of acamp area) performed by military personnel|
+|peculiar| \\`pe·cu·liar`\\ |adj.|characteristic of only one person, group, or thing : DISTINCTIVE|
+|identical| \\`iden·ti·cal`\\ |adj.|being the same : SELFSAME|
