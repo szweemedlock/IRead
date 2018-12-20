@@ -14,5 +14,5 @@
 |*Title*|||*Definition*|
 |:-----|:-----|:-----|:-----|
 |cease| \\`ˈsēs`\\ |v.|to cause to come to an end especially gradually : no longer continue|
-|eternal| \\`eter·​nal`\\ |adj.|having infinite duration : EVERLASTING|
-|capable| \\`ca·​pa·​ble`\\ |adj.|having attributes (such as physical or mental power) required for performance or accomplishment|
+|eternal| \\`eter·nal`\\ |adj.|having infinite duration : EVERLASTING|
+|capable| \\`ca·pa·ble`\\ |adj.|having attributes (such as physical or mental power) required for performance or accomplishment|
