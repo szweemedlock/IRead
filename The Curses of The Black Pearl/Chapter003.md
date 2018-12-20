@@ -19,4 +19,4 @@
 |:-----|:-----|:-----|:-----|
 |mug| \\`məg`\\ |n.|a cylindrical drinking cup|
 |ample| \\`ˈam-pəl`\\ |adj.|generous or more than adequate in size, scope, or capacity|
-|leverage| \\`ˈle·ver·age `\\ |n.|the action of a lever or the mechanical advantage gained by it|
+|leverage| \\`ˈle·ver·age`\\ |n.|the action of a lever or the mechanical advantage gained by it|
