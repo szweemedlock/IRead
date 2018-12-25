@@ -26,5 +26,5 @@
 |*Title*|||*Definition*|
 |:-----|:-----|:-----|:-----|
 |bold| \\`ˈbōld`\\ |adj.|showing or requiring a fearless daring spirit|
-|negotiate| \\`ne·go·ti·ate `\\ |v.|to confer with another so as to arrive at the settlement of some matter|
+|negotiate| \\`ne·go·ti·ate`\\ |v.|to confer with another so as to arrive at the settlement of some matter|
 |utter| \\`ut·ter`\\ |adj.|carried to the utmost point or highest degree|
