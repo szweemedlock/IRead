@@ -24,5 +24,5 @@
 ### :grapes: Words
 |*Title*|||*Definition*|
 |:-----|:-----|:-----|:-----|
-|condemn| \\`con·​demn`\\ |v.|to declare to be reprehensible, wrong, or evil usually after weighing evidence and without reservation|
-|engage| \\`en·​gage`\\ |v.|to offer (something, such as one's life or word) as backing to a cause or aim : to expose to risk for the attainment or support of some end|
+|condemn| \\`con·demn`\\ |v.|to declare to be reprehensible, wrong, or evil usually after weighing evidence and without reservation|
+|engage| \\`en·gage`\\ |v.|to offer (something, such as one's life or word) as backing to a cause or aim : to expose to risk for the attainment or support of some end|
